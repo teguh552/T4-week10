@@ -1,8 +1,8 @@
 # T4-week10 - Aplikasi CRUD PHP MySQL
 
-Nama    : Teguh Imam Azkari
-NIM     : F1D021069
-Kelas   : Pemrograman Web C
+Nama    : Teguh Imam Azkari  
+NIM     : F1D021069  
+Kelas   : Pemrograman Web C  
 
 ## Deskripsi
 Aplikasi CRUD (Create, Read, Update, Delete) menggunakan PHP, MySQL, dan Bootstrap.
