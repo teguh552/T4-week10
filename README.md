@@ -2,7 +2,7 @@
 
 Nama    : Teguh Imam Azkari  
 NIM     : F1D021069  
-Kelas   : Pemrograman Web C  
+Kelas   : Pemrograman Web C
 
 ## Deskripsi
 Aplikasi CRUD (Create, Read, Update, Delete) menggunakan PHP, MySQL, dan Bootstrap.
